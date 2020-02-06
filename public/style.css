@@ -1,0 +1,26 @@
+body {
+    background-color: #FFEAF2;
+}
+
+.main-container {
+    margin: auto;
+    width: 60%;
+    text-align: center;
+}
+
+.Clock {
+    font-size: 4em;
+    color: #F1396D;
+    display: block;
+}
+
+.MsgDisplay {
+    font-size: 2em;
+    display: block;
+    color: #382F32;
+}
+
+.ImgDisplay {
+    border: 10px solid #FBC5D8;
+    border-radius: 10%;
+}

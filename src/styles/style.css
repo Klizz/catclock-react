@@ -1,0 +1,20 @@
+#root {
+    margin: auto;
+}
+
+.Clock {
+    font-size: 4em;
+    color: #F1396D;
+    display: block;
+}
+
+.MsgDisplay {
+    font-size: 2em;
+    display: block;
+    color: #382F32;
+}
+
+.ImgDisplay {
+    border: 10px solid #FBC5D8;
+    border-radius: 10%;
+}
